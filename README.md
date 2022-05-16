@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mohana-divum
+- 👀 I’m interested in Data Science & Machine Learning
+- 🌱 I’m currently working in Divum Corporate Services
